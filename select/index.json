@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "Fantastic future",
+  "base_artist": "田村ゆかり",
+  "createdAt": "2026-03-25T17:12:35.762894Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fantastic future",
+      "artist": "田村ゆかり",
+      "has_synced": true,
+      "path": "select/01_Fantastic_future_田村ゆかり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fantastic Future",
+      "artist": "Erica Freas",
+      "has_synced": false,
+      "path": "select/02_Fantastic_Future_Erica_Freas.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fantastic future",
+      "artist": "Yukari Tamura",
+      "has_synced": true,
+      "path": "select/03_Fantastic_future_Yukari_Tamura.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fantastic future",
+      "artist": "Yukari Tamura",
+      "has_synced": true,
+      "path": "select/04_Fantastic_future_Yukari_Tamura.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fantastic future",
+      "artist": "Tamura Yukari",
+      "has_synced": true,
+      "path": "select/05_Fantastic_future_Tamura_Yukari.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fantastic future",
+      "artist": "田村ゆかり",
+      "has_synced": true,
+      "path": "select/06_Fantastic_future_田村ゆかり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fantastic future",
+      "artist": "ストロボサイダー",
+      "has_synced": false,
+      "path": "select/07_Fantastic_future_ストロボサイダー.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fantastic future",
+      "artist": "Yukari Tamura",
+      "has_synced": true,
+      "path": "select/08_Fantastic_future_Yukari_Tamura.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fantastic future",
+      "artist": "Tamura Yukari",
+      "has_synced": true,
+      "path": "select/09_Fantastic_future_Tamura_Yukari.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fantastic future (Cover)",
+      "artist": "Pastel＊Palettes",
+      "has_synced": true,
+      "path": "select/10_Fantastic_future_(Cover)_Pastel_Palettes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fantastic future",
+      "artist": "Uruha Rushia",
+      "has_synced": true,
+      "path": "select/11_Fantastic_future_Uruha_Rushia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It's Fantastic - Live",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/12_It's_Fantastic_-_Live_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It'S Fantastic",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/13_It'S_Fantastic_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's Fantastic!",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/14_It's_Fantastic!_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Captain Fantastic",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/15_Captain_Fantastic_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fantastic Voyage",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/16_Fantastic_Voyage_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "FANTASTIC LOVERS",
+      "artist": "アイアンフリル",
+      "has_synced": true,
+      "path": "select/17_FANTASTIC_LOVERS_アイアンフリル.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "FANTASTIC LOVERS",
+      "artist": "アイアンフリル",
+      "has_synced": true,
+      "path": "select/18_FANTASTIC_LOVERS_アイアンフリル.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Fantastic 6",
+      "artist": "Alphabeat",
+      "has_synced": true,
+      "path": "select/19_Fantastic_6_Alphabeat.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Tripping the Light Fantastic",
+      "artist": "BT",
+      "has_synced": false,
+      "path": "select/20_Tripping_the_Light_Fantastic_BT.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "I Feel Fantastic",
+      "artist": "Jonathan Coulton",
+      "has_synced": true,
+      "path": "select/21_I_Feel_Fantastic_Jonathan_Coulton.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Planet Fantastic",
+      "artist": "Delta Sleep",
+      "has_synced": true,
+      "path": "select/22_Planet_Fantastic_Delta_Sleep.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Power Fantastic (Live in Studio - 2020 Remaster)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/23_Power_Fantastic_(Live_in_Studio_-_2020_Remaster)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Power Fantastic (Live in Studio)  (2020 Remaster)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/24_Power_Fantastic_(Live_in_Studio)_(2020_Remaster)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Fantastic Dream",
+      "artist": "Alphaville",
+      "has_synced": true,
+      "path": "select/25_Fantastic_Dream_Alphaville.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Fantastic Dream (demo 2)",
+      "artist": "Alphaville",
+      "has_synced": false,
+      "path": "select/26_Fantastic_Dream_(demo_2)_Alphaville.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fantastic future",
+      "artist": "田村 ゆかり",
+      "has_synced": false,
+      "path": "select/pl_01_Fantastic_future_田村_ゆかり.txt"
+    }
+  ]
+}
